@@ -1,0 +1,56 @@
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main {
+    margin: auto;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+#img-div {
+    background: #FFF;
+    margin: 15px;
+}
+
+#tribute-info {
+    display: inline-block;
+    text-align: left;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#tribute-info p {
+    font-style: italic;
+}
+
+#tribute-info li {
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+#title h1 {
+    font-size: 40px;
+}
+
+#img-caption {
+    font-size: 1em;
+    padding-bottom: 5px;
+    margin-top: 15px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+}
